@@ -1,0 +1,10 @@
+git@github.com:Dalimil/Kepler-GJK.git
+git@github.com:chluvac/MPplayer.git
+git@github.com:jardalzicar/meteo.git
+git@bitbucket.org:xnovk01/mkartoteka.git
+https://bitbucket.org/xmegapopcornz/treegen.git
+git@github.com:karlosss/sudoku.git
+git@github.com:AnnaMoudra/SkyQuality.git
+git@bitbucket.org:petrSin/space-challenge.git
+git@github.com:kukas/Lightbeats.git
+
