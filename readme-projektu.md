@@ -6,7 +6,7 @@ Anotace projektu zhruba na jeden řádek. (patří i do description tohoto githu
 - **Ukázka:** [screenshoty](http://abc), [ukázkové video](http://abc/)
 - **Download:** [link na release](https://github.com/Dalimil/Kepler-GJK/releases), [případně odkaz na Google Play](http://abc/) apod
 - **Dokumentace:** [uživatelská i programátorská dokumentace](http://abc) (link na PDFko na githubu)
-- **Repozitář:** [kukas/Lightbeats](http://github.com/kukas/Lightbeats) + [fork](http://github.com/gjkcz/Lightbeats) se stavem maturitní práce
+- **Repozitář:** [kukas/Lightbeats](http://github.com/kukas/Lightbeats) + [fork](http://github.com/gjkcz/Lightbeats) v archivu maturitních prací
 - **Autor:** Jméno Přijmení, případně@mail.com, @twitter, atd.
 - **Maturitní práce 2014/15** na [GJK](https://github.com/gjkcz/gjkcz)
 - Autor nezveřejnil zdrojové kódy, pro přístup ho můžete zkusit kontaktovat. (uvede mkartoteka a space-challenge - těm udělám gjkcz/repo-public, kde bude jen tento readme)
