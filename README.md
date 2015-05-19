@@ -5,8 +5,8 @@
 Zde jsou odkazy na archiv maturitních projektů, tedy kopie zdrojových kódů při odevzdání. V každém projektu pak je odkaz na původní repozitář, kde najdete aktualizace, pokud jej autor vyvíjel dále.
 
   * [SkyQuality](https://github.com/gjkcz/SkyQuality) - web skyquality.cz (PHP/Nette)
-  * [space-challange](neverejne/space-challenge.md) - vesmírná střílečka (Windows Phone)
-  * [mkartoteka](neverejne/mkartoteka.md) - univerzální kartotéka (Delphi, SQLite)
+  * [space-challange](neverejne/space-challenge) - vesmírná střílečka (Windows Phone)
+  * [mkartoteka](neverejne/mkartoteka) - univerzální kartotéka (Delphi, SQLite)
   * [SuSol](https://github.com/gjkcz/sudoku) - nástroj pro řešitele sudoku (Python, Qt)
   * [treegen](https://github.com/gjkcz/treegen) - generátor a vizualizér reálných stromů (C++, DirectX)
   * [mplayer](https://github.com/gjkcz/MPplayer) - hudební přehrávač (Android)
