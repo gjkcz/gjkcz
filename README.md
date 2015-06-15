@@ -1,8 +1,8 @@
-# Rozcestník maturitních projektů
+# Rozcestník kepleráckých IT projektů
 
-## 2014/15
+## Maturitní práce 2014/15
 
-Zde jsou odkazy na archiv maturitních projektů, tedy kopie zdrojových kódů při odevzdání. V každém projektu pak je odkaz na původní repozitář, kde najdete aktualizace, pokud jej autor vyvíjel dále.
+Zde jsou odkazy na archiv - každý projekt má "původní" repozitář, kde najdete aktualizace nad rámec MP.
 
   * [SkyQuality](https://github.com/gjkcz/SkyQuality) - web skyquality.cz (PHP/Nette)
   * [space-challange](neverejne/space-challenge) - vesmírná střílečka (Windows Phone)
