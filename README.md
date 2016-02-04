@@ -1,8 +1,25 @@
-# Rozcestník kepleráckých IT projektů
+# #gjkprg
 
-## Maturitní práce 2014/15
+**To nejlepší z programování a IT** [2016/17] 
 
-Zde jsou odkazy na archiv - každý projekt má "původní" repozitář, kde najdete aktualizace nad rámec MP.
+Seminář postupně projde různá odvětví programování a informatiky, které dají všeobecný rozhled a upotřebí se též při studiu IT škol. Počínaje vývojem softwaru (GIT, C++, Bash, Python, [node]JS, Java, databáze, algoritmy), přes principy fungování počítače (procesor, hw, asembler, filesystémy) až po speciální témata (webové API, digitální mapy, [3D] grafika či šifrování a bezpečnost).
+
+  Součástí semináře bude ročníková (či maturitní) práce na zvolené téma. Pro začátečníky pak zejména programování kostky Futurocube. Minulé projekty na zby.cz/gjkprg
+  
+  
+- **Projekt:** 	bude osvětleno na prvních hodinách
+- **Klasifikace:** 	formou testíků a na základě snahy v celoročním projektu
+- **Web:** 	http://zby.cz/gjkprg
+- **Kontakt:** 	Pavel Zbytovský (zbytovsky@gmail.com) a jakub@jakublucky.cz
+- **FB skupina:** 	http://facebook.com/groups/581640695279060/
+
+
+
+## Studentské práce 2014/15
+- **Třeťácké projekty**: [futurocube](https://github.com/gjkcz/futurocube).
+- **Maturitní práce**: níže
+
+Zde jsou odkazy na archivní zálohy maturitních projektů - každý projekt má i "původní" repozitář, kde najdete aktualizace nad rámec MP.
 
   * [SkyQuality](https://github.com/gjkcz/SkyQuality) - web skyquality.cz (PHP/Nette)
   * [space-challange](neverejne/space-challenge) - vesmírná střílečka (Windows Phone)
@@ -14,4 +31,4 @@ Zde jsou odkazy na archiv - každý projekt má "původní" repozitář, kde naj
   * [Kepler-GJK](https://github.com/gjkcz/Kepler-GJK) - školní aplikace (Android)
   * [Lightbeats](https://github.com/gjkcz/Lightbeats) - realtime vizualizace žonglování (Processing)
 
-Brzy budou přidány odkazy na posudky.
+Pokud se někdo ozve, přidám posudky. Pavel ;)
