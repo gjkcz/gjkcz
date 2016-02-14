@@ -10,7 +10,7 @@ Seminář postupně projde různá odvětví programování a informatiky, kter�
 - **Projekt:** 	bude osvětleno na prvních hodinách
 - **Klasifikace:** 	formou testíků a na základě snahy v celoročním projektu
 - **Web:** 	http://zby.cz/gjkprg
-- **Kontakt:** 	Pavel Zbytovský (zbytovsky@gmail.com) a jakub@jakublucky.cz
+- **Kontakt:** 	Tomáš Obdržálek (tomas@obdrzalek.eu) a Pavel Zbytovský (zbytovsky@gmail.com) [možná i jakub@jakublucky.cz]
 - **FB skupina:** 	http://facebook.com/groups/581640695279060/
 
 
